@@ -4,7 +4,12 @@
 
 
 
-## Resources, Unordered
+## Resources
+
+## Misc
+
+1. [GDCVault](http://www.gdcvault.com/browse/?track_category=700)
+  Game Developer Conference vault providing talks by industry leading professsionals
 
 ### Design
 
