@@ -6,9 +6,13 @@
 
 ## Resources
 
+## Math, related via video game development
+
+1. [Cow-co Math Tutorial Blogs](https://cow-co.gitlab.io/BlogPosts/MathsSeriesBase.html)
+
 ## Misc
 
-1. [GDCVault](http://www.gdcvault.com/browse/?track_category=700)
+1. [GDCVault](http://www.gdcvault.com/browse/)
   Game Developer Conference vault providing talks by industry leading professsionals
 
 ### Design
