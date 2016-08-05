@@ -1,1 +1,1 @@
-# game-development-resources
+# Video Game Development and Design Resources
